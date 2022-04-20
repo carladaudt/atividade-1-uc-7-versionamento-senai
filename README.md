@@ -1,5 +1,5 @@
 # atividade-1-uc-7-versionamento-senai
-Atividade 1 UC 7 Versionamento (Em andamento) . . . 
+Atividade 1 UC 7 Versionamento 
 Fechando o Read Me 
 cd – comando para entrar ou sair de pastas/diretórios
 Clear ou cls – limpa o console. Também existe o atalho ctrl + L
